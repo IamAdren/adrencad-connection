@@ -1,0 +1,14 @@
+{
+  "name": "adren-framework",
+  "version": "1.0.0",
+  "description": "A handeler to connect to the Adren CAD API",
+  "main": "socket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IamAdren",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io-client": "^4.1.2"
+  }
+}
